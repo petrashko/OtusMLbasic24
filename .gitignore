@@ -5,9 +5,10 @@
 
 #
 dir1/dir2/*
+.ipynb_checkpoints/
 
 # misc
 .DS_Store
 
-debug.log*
+pip-log.txt
 error.log*
