@@ -147,6 +147,6 @@ print(f'Duration: {triller.duration}')
 if __name__ == '__main__':
     print(end='\n\n')
     print('END!!!' );
-    input();
+    #input();
 
 
